@@ -1,7 +1,7 @@
 const cloudinary = require('cloudinary').v2;
 
 /* 
-In this specific example we are using:
+In this example we are using:
  * `use_filename: true` to instruct Cloudinary to use the file name of the asset being uploaded to produce asset public_id on upload
 	- `iss050e066094~orig` ⇒ `iss050e066094_orig`
 	
