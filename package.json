@@ -1,5 +1,5 @@
 {
-  "engines": { "node": "16.x" },
+  "engines": { "node": "18.16.0" },
   "dependencies": {
     "cloudinary": "^1.35.0"
   }
